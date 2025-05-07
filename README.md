@@ -1,4 +1,10 @@
-# Simple MCP Server on Lambda
+# DEPRECATED
+
+Use this repo instead - https://github.com/aws-samples/sample-serverless-mcp-servers
+
+# DEPRECATED
+
+----
 
 A simple MCP Server running natively on AWS Lambda and Amazon API Gateway without any extra bridging components or custom transports. This is now possible thanks to the [Streamable HTTP](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports#streamable-http) transport introduced in v2025-03-26. This is merely a prototype. 
 
